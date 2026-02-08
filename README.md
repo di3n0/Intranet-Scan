@@ -2,6 +2,10 @@
 
 A lightweight, high-performance reconnaissance container designed for internal network scanning and web asset discovery. This project packs the "Golden Quartet" of security tools into a single, portable Ubuntu-based environment.
 
+```
+docker pull ghcr.io/di3n0/intranet-scan:latest
+```
+
 ## Overview
 
 `Intranet-Scan` simplifies the reconnaissance phase of penetration testing. Instead of managing multiple tool dependencies on your host machine, you can run this container anywhere to perform port scanning, web probing, and directory fuzzing.
