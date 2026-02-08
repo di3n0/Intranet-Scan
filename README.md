@@ -12,7 +12,7 @@ A lightweight, high-performance reconnaissance container designed for internal n
 | --- | --- | --- |
 | **Nmap** | Infrastructure & Port Scanning | [nmap.org](https://nmap.org/) |
 | **httpx** | Fast & Multi-purpose HTTP Toolkit | [projectdiscovery](https://github.com/projectdiscovery/httpx) |
-| **ffuf** | Fast Web Fuzzer (Go-based) | [ffuf/ffuf]https://github.com/ffuf/ffuf) |
+| **ffuf** | Fast Web Fuzzer (Go-based) | [ffuf/ffuf](https://github.com/ffuf/ffuf) |
 | **dirsearch** | Advanced Web Path Scanner | [maurosoria/dirsearch](https://github.com/maurosoria/dirsearch) |
 
 ---
